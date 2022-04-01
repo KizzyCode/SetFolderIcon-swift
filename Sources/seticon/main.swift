@@ -2,7 +2,7 @@ import Foundation
 import Cocoa
 
 
-/// A DER coding related error
+/// A SetFolderIcon related error
 public enum SetIconError: Error {
     /// The CLI arguments are invalid
     case invalidArguments(String, StaticString = #file, Int = #line)
