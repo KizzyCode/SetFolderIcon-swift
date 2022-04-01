@@ -1,6 +1,5 @@
 [![License BSD-2-Clause](https://img.shields.io/badge/License-BSD--2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
 [![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Travis CI](https://travis-ci.org/KizzyCode/SetFolderIcon-swift.svg?branch=master)](https://travis-ci.org/KizzyCode/SetFolderIcon-swift)
 
 # SetFolderIcon
 
